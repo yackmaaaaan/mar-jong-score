@@ -217,7 +217,7 @@ function calc() {
 
   if ($("special").value.includes("七対子")) {
 
-    calculatedFu = 25;
+    calculatedFu = 5;
 
   } else if ($("special").value.includes("平和ツモ")) {
 
